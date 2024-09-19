@@ -100,7 +100,7 @@ Wanna take my Diagonal Sudoku Solver for a spin? Here’s what you need to do:
 
 1. Clone this repo:
    ```bash
-   git clone <this-repo-url>
+   git clone <https://github.com/pranav8991/Build-a-Sudoku-Solver.git>
    ```
    
 2. Activate the **aind** environment:
